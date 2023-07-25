@@ -1,5 +1,8 @@
-# Hazard
+ICT602 Group Project: AlertHub Mobile Application
 
-
-https://user-images.githubusercontent.com/66263880/181253662-e8300c9c-bf89-40d2-959e-c22c226195bc.mp4
+Name:
+1. ALYA NAZIRAH
+2. AWANG MUHAMMAD HAKIMI
+3. MELVIN VINCENT
+4. NOOR HAZMIZAH
 
